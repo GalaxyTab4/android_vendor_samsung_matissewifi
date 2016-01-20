@@ -210,7 +210,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/matissewifi/proprietary/bin/mpdecision:system/bin/mpdecision \
 	vendor/samsung/matissewifi/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
 	vendor/samsung/matissewifi/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
-	vendor/samsung/matissewifi/proprietary/lib/libnetutils.so:system/lib/libnetutils.so \
 	vendor/samsung/matissewifi/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
 	vendor/samsung/matissewifi/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
 	vendor/samsung/matissewifi/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
