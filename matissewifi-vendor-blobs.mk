@@ -241,4 +241,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/matissewifi/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
 	vendor/samsung/matissewifi/proprietary/bin/time_daemon:system/bin/time_daemon \
 	vendor/samsung/matissewifi/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
-	vendor/samsung/matissewifi/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so
+	vendor/samsung/matissewifi/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
+        vendor/samsung/matissewifi/proprietary/vendor/lib/libsecureui.so:system/vendor/lib/libsecureui.so
+
