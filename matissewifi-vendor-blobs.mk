@@ -150,10 +150,8 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/matissewifi/proprietary/lib/libQSEEComAPI.so:system/lib/libQSEEComAPI.so \
 	vendor/samsung/matissewifi/proprietary/lib/librpmb.so:system/lib/librpmb.so \
 	vendor/samsung/matissewifi/proprietary/lib/libssd.so:system/lib/libssd.so \
-	vendor/samsung/matissewifi/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
 	vendor/samsung/matissewifi/proprietary/vendor/lib/libsecureui.so:system/vendor/lib/libsecureui.so \
 	vendor/samsung/matissewifi/proprietary/vendor/lib/lib-sec-disp.so:system/vendor/lib/lib-sec-disp.so \
-	vendor/samsung/matissewifi/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
 	vendor/samsung/matissewifi/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
 	vendor/samsung/matissewifi/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
 	vendor/samsung/matissewifi/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
