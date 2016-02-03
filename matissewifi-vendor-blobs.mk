@@ -21,6 +21,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/matissewifi/proprietary/bin/rfs_access:system/bin/rfs_access \
 	vendor/samsung/matissewifi/proprietary/bin/thermal-engine:system/bin/thermal-engine \
 	vendor/samsung/matissewifi/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
+	vendor/samsung/matissewifi/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
 	vendor/samsung/matissewifi/proprietary/bin/btnvtool:system/bin/btnvtool \
 	vendor/samsung/matissewifi/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
 	vendor/samsung/matissewifi/proprietary/etc/init.qcom.bt.sh:system/etc/init.qcom.bt.sh \
