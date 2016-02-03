@@ -120,7 +120,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/matissewifi/proprietary/vendor/lib/libmmqjpeg_codec.so:system/vendor/lib/libmmqjpeg_codec.so \
 	vendor/samsung/matissewifi/proprietary/vendor/lib/libmmjpeg.so:system/vendor/lib/libmmjpeg.so \
 	vendor/samsung/matissewifi/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
-	vendor/samsung/matissewifi/proprietary/lib/libmmcamera_s5k6b2yx.so:system/lib/libmmcamera_s5k6b2yx.so \
 	vendor/samsung/matissewifi/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
 	vendor/samsung/matissewifi/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
 	vendor/samsung/matissewifi/proprietary/vendor/lib/libmmcamera_imx135.so:system/vendor/lib/libmmcamera_imx134.so \
