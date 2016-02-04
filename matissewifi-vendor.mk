@@ -17,6 +17,7 @@
 # Pick up overlay for features that depend on non-open-source files
 PRODUCT_PACKAGES += \
     libtime_genoff \
+    TimeService \
     com.qualcomm.location
 
 $(call inherit-product, vendor/samsung/matissewifi/matissewifi-vendor-blobs.mk)
